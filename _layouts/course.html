@@ -10,17 +10,12 @@ layout: wrapper
 					<div class="card-body">
 						<h5 class="card-title"><b>General info</b></h5>
 						<hrule>
-						{{ page.name }}
-						{% assign identifier = page.name | split: "." %}
-						{% assign course_id = identifier[0] %}
-						{{ course_id }}
-						{{ site.data.course_info }}
 						<ul class="list-group list-group-flush">
-							{% for item in site.data.course_info[course_id] %}
+							{% for item in site.data.course_info[page.uniqname] %}
 								<li class="list-group-item"><b>{{ item[0] }}:</b> {{ item[1] }}</li>
 							{% endfor %}
 						</ul><br>
-						{% assign links_id = identifier[0] | append: "_links" %}
+						{% assign links_id = page.uniqname | append: "_links" %}
 						<h5 class="card-title"><b>Useful links</b></h5>
 						<ul class="list-group list-group-flush">
 							{% for item in site.data.course_info[links_id] %}
