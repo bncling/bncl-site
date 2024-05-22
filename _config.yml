@@ -33,7 +33,7 @@ theme:
 plugins:
   - jekyll-feed
 
-permalink: /:slugified_categories/:slug
+permalink: /:categories/:slug
 excerpt_separator: <!--end-->
 
 defaults: 
