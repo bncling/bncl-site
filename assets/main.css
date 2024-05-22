@@ -1,0 +1,138 @@
+:root {
+  --header-green: #6b9080;
+  --main-background: #f4f9f5;
+  --fun-green: #279055; 
+  --chill-green: #519872;
+  --chill-darker: #3a7f5f;
+  --chill-lighter: #a4c3b2;
+  --secondary: rgba(4, 16, 9, .56); 
+  --tertiary: rgba(4, 16, 9, .1);
+  --danger-red: #d56570;
+  --danger-dark: #bc4749;
+  --update: #778da9;
+  --update-dark: #647495;
+}
+
+body {
+  background: var(--main-background);
+}
+
+h1 {
+  color: #34252f;
+}
+
+h2, h3, h4, h5, h6 {
+  color: var(--chill-green);
+}
+
+a {
+  color: var(--chill-green);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--fun-green);
+}
+
+ul {
+  margin: 0;
+}
+
+td {
+  width: 15px;
+  height: 15px;
+}
+
+.excerpt {
+  font-size: 14px;
+}
+
+.bg-green {
+  background-color: var(--header-green);
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #d5eae4;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.btn-green {
+  color: var(--main-background);
+  background-color: var(--chill-green);
+}
+
+.btn-green:hover {
+  color: var(--main-background);
+  background-color: var(--chill-darker);
+}
+
+.btn-activegreen {
+  color: var(--main-background);
+  background-color: var(--chill-darker);
+}
+
+.btn-activegreen:hover {
+  color: var(--main-background);
+  background-color: var(--chill-darker);
+}
+
+.btn-red {
+  color: var(--main-background);
+  background-color: var(--danger-red);
+}
+
+.btn-red:hover {
+  color: var(--main-background);
+  background-color: var(--danger-dark);
+}
+
+.btn-blue {
+  color: var(--main-background);
+  background-color: var(--update);
+}
+
+.btn-blue:hover {
+  color: var(--main-background);
+  background-color: var(--update-dark);
+}
+
+.dropdown-menu li a:active {
+  background-color: var(--chill-green);
+}
+
+.dropdown-menu button:active {
+  background-color: var(--chill-green);
+}
+
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.katex {
+    font: normal 1.15em KaTeX_Main;
+}
+
+.border-white {
+  border-color: #ffffff;
+}
+
+/*
+.line-clamp {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical; 
+  overflow: hidden; 
+}
+
+.line-clamp > h2, h4, h5, h6 {
+  font-size: 1em;
+} */
+

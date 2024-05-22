@@ -1,0 +1,38 @@
+---
+layout: wrapper
+title: Posts
+---
+
+<section class="mt-5">
+	<div class="container">
+		<div class="row px-5">
+			<h1><b>Math Posts</b></h1>
+			<p>This will eventually be a collection of miscellaneous math-related writings, though right now the only thing I have up here is an elliptic curve cryptography explainer I wrote for a writing class at Georgetown.</p>
+		</div>
+	</div>
+</section>
+
+<section class="mt-5">
+	<div class="container">
+		<div class="row px-5">
+			{% for post in site.posts %}
+				<div class="row p-2">
+					<div class="col-1"></div>
+					<div class="col-10">
+						<div class="card border-white px-4 pt-4 pb-2">
+							<h3 class="px-2 pt-1"><b><a href="{{ post.url }}">{{ post.title }}</a></b></h3>
+							<div class="px-2 text-secondary excerpt">
+								{% assign excerptParts = post.excerpt | split: "<!--start-->" %}
+								<p>{{ excerptParts[1] }}</p>
+							</div>
+							<p style="font-size: .7em;" class="text-secondary px-2">{{ post.date | date: '%B %d, %Y' }}</p>
+						</div>
+					</div>
+					<div class="col-1"></div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
+<section class="mt-5"></section>
