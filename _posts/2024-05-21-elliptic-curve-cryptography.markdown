@@ -1,5 +1,6 @@
 ---
 title: "What is Elliptic Curve Cryptography?"
+slug: ecc explainer
 date: 2021-07-05T18:07:46-04:00
 ---
 
@@ -33,13 +34,13 @@ One answer comes from **asymmetric** cryptosystems, in which a public key that p
 
 When we add, we take two numbers, put them together, and get a third number. This is also true of elliptic curve point addition---it is a way of taking two points on a curve and obtaining a third one. An elliptic curve has the form $y^2 = x^3 + ax + b$, and so points on the curve can be thought of as ordered pairs $(x,y)$ satisfying this equation. When we take $x$ and $y$ to come from the real numbers, there is a very nice geometric way to describe point addition, illustrated in Figure 3: 
 
-<center><img style="padding:0px 0px 15px 0px; max-width: 400px; width:80%" src="assets/post_photos/ecc_addition.png" height="auto"></center> 
+<center><img style="padding:0px 0px 15px 0px; max-width: 400px; width:80%" src="/assets/post_photos/ecc_addition.png" height="auto"></center> 
 
 Given two points, $P$ and $Q$, we can draw a line through them (the solid line shown in green). Due to a nice property of elliptic curves, this line is guaranteed to hit another point on the curve somewhere, and to figure out where the point $P + Q$ is, we reflect this point of intersection across the $x$-axis (shown with the dashed green line). As shown in the figure, the solid green line hits the curve somewhere below the $x$-axis, and so we define the point $P + Q$ to be the point with the same $x$-coordinate, only above the $x$-axis. Like the more familiar addition of numbers, the order we add points in doesn't matter: $P + Q$ is always the same as $Q + P$.
 
 We can also multiply a point on an elliptic curve by some integer $n$, and we think of the point $nP$ as being the result of adding the point $P$ to itself $n$ times. But here, your alarm bells should be going off: we've defined addition using a line drawn through two *distinct* points $P$ and $Q$---what line should we draw when we're adding $P$ to itself? The answer is that we take the line tangent to $P$, and then use the same procedure from there. The process of finding the point $2P$ from $P$ is shown in Figure 4:
 
-<center><img style="max-width: 420px; width:90%" src="assets/post_photos/ecc_doubling.png" height=auto></center> 
+<center><img style="max-width: 420px; width:90%" src="/assets/post_photos/ecc_doubling.png" height=auto></center> 
 
 In order to figure out where the point $nP$ is, we just need to find $2P$, and then add $P$ to it to get $3P$. Then we'll add $P$ again to get $4P$, and we'll continue all the way up to $nP$. As it turns out, multiplying a point $P$ by an integer $n$ is pretty easy for a computer to do. However, if one is given two points $P$ and $Q$, knowing that $Q$ is a multiple of $P$ (that is, $Q = nP$ for some $n$), it is very difficult even for a computer to figure out what $n$ is in a reasonable amount of time. This, at last, is almost our one-way function.
 
@@ -49,7 +50,7 @@ The reason this isn't quite a good enough one-way function for practical use is 
 
 The set of numbers from $0$ to $p-1$, together with this kind of arithmetic forms an object called a **finite field**, commonly denoted by $\mathbb{F}\_p$. We can think of arithmetic in a finite field as working analogously to how we use clocks. On a clock face, once we reach $12$, we wrap back around and then start counting again at $1$ instead of moving on to $13$. If it is eight o'clock now and we then wait seven hours, it will be three o'clock, and in a finite field $\mathbb{F}\_p$, if we add the elements $p - 2$ and $5$, we get the element $p + 3$. This is too large, so we subtract $p$ (we wrap back around) and end up at $3$.
 
-<center><img style="max-width: 400px; width:90%" src="assets/post_photos/ecc_finite_field.png" height=auto></center> 
+<center><img style="max-width: 400px; width:90%" src="/assets/post_photos/ecc_finite_field.png" height=auto></center> 
 
 As it turns out, arithmetic in a finite field otherwise functions just like normal, and we can return to elliptic curves. Now we will be considering curves defined by equations of the form $y^2 = x^3 + ax + b$, where the numbers $x$, $y$, $a$, and $b$ are all integers in the range from $0$ to $p-1$ for some prime number $p$, that is, they belong to the finite field $\mathbb{F}\_p$. A downside of restricting ourselves to using the elements of $\mathbb{F}\_p$ is that the nice geometric interpretation of elliptic curve point addition and multiplication no longer works. However, just as an elliptic curve can be represented as both an equation and a graph, there is an algebraic interpretation of point addition that can be derived from the geometric interpretation. We won't get into the equations here (though check out the further reading section if you're interested), but the key point is that they apply equally all cases, whether we use points with coordinates from the real numbers or points with coordinates from $\mathbb{F}\_p$. Once we have a well-defined way to add and multiply points on elliptic curves over finite fields, we're ready to go---the one-way function that we need is still the process of multiplying a point by an integer $n$. It remains easy to do in one direction, but very hard to do in reverse. 
 

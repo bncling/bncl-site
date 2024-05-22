@@ -124,6 +124,13 @@ td {
   border-color: #ffffff;
 }
 
+.list-group-item {
+  font-size:  14px;
+  padding-left: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
 /*
 .line-clamp {
   display: -webkit-box;

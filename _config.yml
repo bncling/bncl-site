@@ -33,7 +33,12 @@ theme:
 plugins:
   - jekyll-feed
 
-permalink: /:categories/:slug
+collections:
+  courses:
+    output: true
+    permalink: /:collection/:slug
+
+permalink: /:collection/:slug
 excerpt_separator: <!--end-->
 
 defaults: 
@@ -43,6 +48,7 @@ defaults:
       types: "posts"
     values: 
       layout: post
+
 
 
 # Exclude from processing.

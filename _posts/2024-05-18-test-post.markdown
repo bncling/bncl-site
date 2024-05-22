@@ -1,5 +1,6 @@
 ---
 title: "Stirling numbers test post"
+slug: stirling
 ---
 
 
