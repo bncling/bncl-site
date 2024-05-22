@@ -10,6 +10,7 @@ layout: wrapper
 					<div class="card-body">
 						<h5 class="card-title"><b>General info</b></h5>
 						<hrule>
+						{{ page.name }}
 						{% assign identifier = page.name | split: "." %}
 						{% assign course_id = identifier[0] %}
 						{{ course_id }}
