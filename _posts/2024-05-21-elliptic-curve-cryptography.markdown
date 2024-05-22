@@ -13,7 +13,7 @@ You might not have heard of elliptic curves before, but odds are you've used the
 
 <!--end-->
 
-<center><img src="assets/post_photos/ecc_examples.png" width="600" height=auto></center>
+<center><img style="max-width: 700px; width:90%" src="/assets/post_photos/ecc_examples.png"></center>
 
 These curves have many interesting properties and mathematicians have studied them for a long time, but what on earth do they have to do with the ciphers and codes used to secure information? You might not be familiar with many ideas from cryptography, the study of ciphers and information security, but if you ever learned about simple ciphers in school, passed codes back and forth with your friends, or even if you've just whispered to someone, you already have some idea of what cryptography is all about. 
 
