@@ -12,6 +12,8 @@ layout: wrapper
 						<hrule>
 						{% assign identifier = page.name | split: "." %}
 						{% assign course_id = identifier[0] %}
+						{{ course_id }}
+						{{ site.data.course_info }}
 						<ul class="list-group list-group-flush">
 							{% for item in site.data.course_info[course_id] %}
 								<li class="list-group-item"><b>{{ item[0] }}:</b> {{ item[1] }}</li>
