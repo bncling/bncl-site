@@ -6,8 +6,8 @@ GW1231_summer_24:
   Office hours: MW 2:00 - 4:00
 
 GW1231_summer_24_links:
-  Syllabus: syllabus
-  Notes: notes
+  Syllabus: "/assets/documents/GW1231_summer_24_syllabus.pdf"
+  Notes (currently unavailable): "#"
   Textbook: https://openstax.org/details/books/calculus-volume-1
-  WeBWorK: webwork
+  WeBWorK: "https://openmath.library.gwu.edu/webwork2/2024-summer-math1231-clingenpeel/"
 
