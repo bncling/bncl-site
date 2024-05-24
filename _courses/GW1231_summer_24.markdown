@@ -1,6 +1,7 @@
 ---
 layout: course
 title: "Math 1231-20: Single Variable Calculus I"
+subtitle: "GWU Summer 2024 Session II"
 slug: Math 1231
 uniqname: GW1231_summer_24
 ---
