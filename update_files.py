@@ -7,9 +7,13 @@ WEB_SYLLABUS_PATH = "/Users/benclingenpeel/Desktop/Projects/bncl/assets/document
 BIRD_PATH = "/Users/benclingenpeel/Desktop/Projects/Bird/birdMap.html"
 WEB_BIRD_PATH = "/Users/benclingenpeel/Desktop/Projects/bncl/birdMap.html"
 
+NOTES_PATH = "/Users/benclingenpeel/Desktop/GW/Summer 2024/1231/Notes/course_notes.pdf"
+WEB_NOTES_PATH = "/Users/benclingenpeel/Desktop/Projects/bncl/assets/documents/1231_summer_24_notes.pdf"
+
 # copy things over
 shutil.copy(SYLLABUS_PATH, WEB_SYLLABUS_PATH)
 shutil.copy(BIRD_PATH, WEB_BIRD_PATH)
+shutil.copy(NOTES_PATH, WEB_NOTES_PATH)
 
 # set the front matter on the bird map
 with open(WEB_BIRD_PATH,'r') as contents:
