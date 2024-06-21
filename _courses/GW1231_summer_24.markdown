@@ -62,6 +62,7 @@ Some of the most common things that trip people up in this course are more to do
 - WeBWorK *2-3b Computing Limits*
 - WeBWorK *2-3c Squeeze Theorem*
 - WeBWorK *2-3d Trigonometric Limits*
+- WeBWorK *2-4 Continuity*
 
 <br>
 

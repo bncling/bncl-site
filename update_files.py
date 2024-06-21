@@ -7,7 +7,7 @@ WEB_SYLLABUS_PATH = "/Users/benclingenpeel/Desktop/Projects/bncl/assets/document
 BIRD_PATH = "/Users/benclingenpeel/Desktop/Projects/Bird/birdMap.html"
 WEB_BIRD_PATH = "/Users/benclingenpeel/Desktop/Projects/bncl/birdMap.html"
 
-NOTES_PATH = "/Users/benclingenpeel/Desktop/GW/Summer 2024/1231/Notes/course_notes.pdf"
+NOTES_PATH = "/Users/benclingenpeel/Desktop/GW/Summer 2024/1231/Notes/to_upload.pdf"
 WEB_NOTES_PATH = "/Users/benclingenpeel/Desktop/Projects/bncl/assets/documents/1231_summer_24_notes.pdf"
 
 # copy things over
