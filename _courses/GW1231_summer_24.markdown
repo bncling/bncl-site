@@ -30,7 +30,7 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-<!--
+
 <details markdown="1">
 <summary><b>Week 1: July 1 - 4</b></summary>
 
@@ -69,6 +69,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
+<!--
 <details markdown="1">
 <summary><b>Week 2: July 8 - 11</b></summary>
 
