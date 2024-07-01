@@ -7,7 +7,7 @@ uniqname: GW1231_summer_24
 ---
 
 ---
-<details markdown="1" open>
+<details markdown="1">
 <summary><b>Week 0: Optional review</b></summary>
 
 <br>
@@ -31,7 +31,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><b>Week 1: July 1 - 4</b></summary>
 
 ###### **July 1:** Syllabus, review of functions, intro to limits
@@ -52,6 +52,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 3.1
 - Due
 	- Mastery quiz 1 (in class)
+		- Topics: M1
+		- [Single sheet](#)
+		- [Answer blanks](#)
 	- WeBWorK *0 Tutorial*
 	- WeBWorK *1-1 Functions* 
 
