@@ -53,8 +53,8 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- Mastery quiz 1 (in class)
 		- Topics: M1
-		- [Single sheet](#)
-		- [Answer blanks](#)
+		- [Single sheet](/assets/documents/mq1_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
 	- WeBWorK *0 Tutorial*
 	- WeBWorK *1-1 Functions* 
 
