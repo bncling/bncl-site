@@ -253,3 +253,13 @@ Some of the most common things that trip people up in this course are more to do
 <br>
 
 </details>-->
+
+
+<br>
+
+<h3 id="mastery-quizzes">Mastery Quizzes</h3>
+
+###### **Mastery quiz 1**
+- Topics: M1
+- [Single sheet](/assets/documents/mq1_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
