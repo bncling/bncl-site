@@ -51,7 +51,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 4.6, ignore anything to do with sketching graphs, formal definitions, or transcendental functions
 	- OpenStax 3.1
 - Due
-	- Mastery quiz 1 (in class)
+	- Mastery quiz 1 (due in class)
 		- Topics: M1
 		- [Single sheet](/assets/documents/mq1_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
@@ -72,7 +72,6 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<!--
 <details markdown="1">
 <summary><b>Week 2: July 8 - 11</b></summary>
 
@@ -82,7 +81,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 3.2 
 	- OpenStax 3.3
 - Due
-	- Mastery quiz 2 (in class)
+	- Mastery quiz 2 (due in class)
 	- WeBWorK *2-2 Infinite Limits*
 	- WeBWorK *4-6 Limits at Infinity*
 
@@ -96,7 +95,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 3.4
 	- OpenStax 4.2
 - Due 
-	- Mastery quiz 3 (in class)
+	- Mastery quiz 3 (due in class)
 	- WeBWorK *3-1 Intro to Derivatives* 
 
 ###### **July 11:** Implicit differentiation, intro to related rates
@@ -116,7 +115,7 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-
+<!--
 <details markdown="1">
 <summary><b>Week 3: July 15 - 18</b></summary>
 
