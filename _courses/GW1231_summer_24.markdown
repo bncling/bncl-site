@@ -45,7 +45,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 2.3
 	- OpenStax 2.4
 
-###### **July 3:** Infinite limits, intro to derivatives
+###### **July 3:** Infinite limits 
 - Read before class
 	- OpenStax 2.2 on infinite limits
 	- OpenStax 4.6, ignore anything to do with sketching graphs, formal definitions, or transcendental functions
@@ -75,13 +75,16 @@ Some of the most common things that trip people up in this course are more to do
 <details markdown="1">
 <summary><b>Week 2: July 8 - 11</b></summary>
 
-###### **July 8:** Tangent lines, computing derivatives
+###### **July 8:** Defining and computing derivatives
 - Read before class
 	- OpenStax 3.1 (again)
 	- OpenStax 3.2 
 	- OpenStax 3.3
 - Due
 	- Mastery quiz 2 (due in class)
+		- Topics: M1
+		- [Single sheet](/assets/documents/mq2_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
 	- WeBWorK *2-2 Infinite Limits*
 	- WeBWorK *4-6 Limits at Infinity*
 
@@ -262,3 +265,8 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M1
 - [Single sheet](/assets/documents/mq1_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
+
+###### **Mastery quiz 2**
+- Topics: M1
+- [Single sheet](/assets/documents/mq2_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
