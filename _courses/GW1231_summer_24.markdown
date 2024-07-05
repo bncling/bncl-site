@@ -55,6 +55,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M1
 		- [Single sheet](/assets/documents/mq1_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq1_solutions.pdf)
 	- WeBWorK *0 Tutorial*
 	- WeBWorK *1-1 Functions* 
 
@@ -72,7 +73,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<details markdown="1">
+<details markdown="1" open>
 <summary><b>Week 2: July 8 - 11</b></summary>
 
 ###### **July 8:** Defining and computing derivatives
@@ -265,6 +266,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M1
 - [Single sheet](/assets/documents/mq1_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq1_solutions.pdf)
 
 ###### **Mastery quiz 2**
 - Topics: M1
