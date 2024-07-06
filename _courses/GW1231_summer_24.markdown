@@ -127,7 +127,7 @@ Some of the most common things that trip people up in this course are more to do
 - Read before class
 	- OpenStax 4.1 (again)
 - Due 
-	- Mastery quiz 4 (in class)
+	- Mastery quiz 4 (due in class)
 	- WeBWorK *3-8 Implicit Differentiation*
 
 ###### **July 16:** Midterm 1 (M1, M2, S1, S2, S3)
@@ -136,7 +136,7 @@ Some of the most common things that trip people up in this course are more to do
 - Read before class
 	- OpenStax 4.3
 - Due 
-	- Mastery quiz 5 (in class)
+	- Mastery quiz 5 (due in class)
 	- WeBWorK *4-1 Related Rates* 
 
 ###### **July 18:** Mean Value Theorem, classifying critical points
@@ -160,7 +160,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 4.5 (again)
 	- OpenStax 4.6 (again)
 - Due
-	- Mastery quiz 6 (in class)
+	- Mastery quiz 6 (due in class)
 	- WeBWorK *4-4 Mean Value Theorem*
 	- WeBWorK *4-5a Relative Extrema*
 
@@ -172,7 +172,7 @@ Some of the most common things that trip people up in this course are more to do
 - Read before class
 	- OpenStax 4.7 (again)
 - Due 
-	- Mastery quiz 7 (in class)
+	- Mastery quiz 7 (due in class)
 	- WeBWorK *4-5b Sketching Graphs*
 
 ###### **July 25:** Midterm 2 (M3, S4, S5, S6)
@@ -191,7 +191,7 @@ Some of the most common things that trip people up in this course are more to do
 - Read before class
 	- OpenStax 5.1
 - Due 
-	- Mastery quiz 8 (in class)
+	- Mastery quiz 8 (due in class)
 
 ###### **July 30:** Properties of definite integrals, FTC 1
 - Read before class
@@ -210,7 +210,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 5.5
 	- OpenStax 6.1
 - Due
-	- Mastery quiz 9 (in class) 
+	- Mastery quiz 9 (due in class) 
 	- WeBWorK *5-2 Definite Integrals*
 	- WeBWorK *5-3 FTC Part 1*
 
@@ -230,7 +230,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 5.2 on average values
 	- OpenStax 6.5
 - Due
-	- Mastery quiz 10 (in class)
+	- Mastery quiz 10 (due in class)
 	- WeBWorK *5-5 Integration by Substitution*
 	- WeBWorK *6-1 Areas*
 
@@ -244,7 +244,7 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 6.2 (again)
 	- OpenStax 6.3 (again)
 - Due
-	- Mastery quiz 11 (in class)
+	- Mastery quiz 11 (due in class)
 	- WeBWorK *6-5 Physical Applications* 
 	- WeBWorK *6-x Averages* 
 
