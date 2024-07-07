@@ -196,12 +196,12 @@ Some of the most common things that trip people up in this course are more to do
 ###### **July 30:** Properties of definite integrals, FTC 1
 - Read before class
 	- OpenStax 5.2 except the part about average values
-	- OpenStax 5.3 from Theorem 5.4 onward
+	- OpenStax 5.3 just from Theorem 5.4 to Theorem 5.5
 
 ###### **July 31:** Antiderivatives, FTC 2
 - Read before class
 	- OpenStax 4.10
-	- OpenStax 5.4
+	- OpenStax 5.3 from Theorem 5.5 onward
 - Due
 	- WeBWorK *5-1 Riemann sums*
 
@@ -228,6 +228,8 @@ Some of the most common things that trip people up in this course are more to do
 ###### **August 5:** Applications of integration
 - Read before class
 	- OpenStax 5.2 on average values
+	- OpenStax 5.3 before Theorem 5.4
+	- OpenStax 5.4
 	- OpenStax 6.5
 - Due
 	- Mastery quiz 10 (due in class)
