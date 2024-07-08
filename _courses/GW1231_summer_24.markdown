@@ -31,7 +31,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><b>Week 1: July 1 - 4</b></summary>
 
 ###### **July 1:** Syllabus, review of functions, intro to limits
@@ -100,6 +100,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 4.2
 - Due 
 	- Mastery quiz 3 (due in class)
+		- Topics: M1, M2, S1
+		- [Single sheet](/assets/documents/mq3_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq3_answer_blanks.pdf)
 	- WeBWorK *3-1 Intro to Derivatives* 
 
 ###### **July 11:** Implicit differentiation, intro to related rates
@@ -131,6 +134,7 @@ Some of the most common things that trip people up in this course are more to do
 	- WeBWorK *3-8 Implicit Differentiation*
 
 ###### **July 16:** Midterm 1 (M1, M2, S1, S2, S3)
+- [Practice midterm](/assets/documents/practice_midterm1.pdf)
 
 ###### **July 17:** Extreme Value Theorem, maxima and minima
 - Read before class
@@ -274,3 +278,18 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M1
 - [Single sheet](/assets/documents/mq2_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
+
+###### **Mastery quiz 3**
+- Topics: M1, M2, S1
+- [Single sheet](/assets/documents/mq3_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq3_answer_blanks.pdf)
+
+
+<br>
+
+<h3 id="practice-exams">Practice Exams</h3>
+
+###### **Midterm 1**
+- Topics: M1, M2, S1, S2, S3
+- [Practice midterm](/assets/documents/practice_midterm1.pdf)
+
