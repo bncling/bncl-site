@@ -86,6 +86,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M1
 		- [Single sheet](/assets/documents/mq2_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq2_solutions.pdf)
 	- WeBWorK *2-2 Infinite Limits*
 	- WeBWorK *4-6 Limits at Infinity*
 
@@ -278,6 +279,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M1
 - [Single sheet](/assets/documents/mq2_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq2_solutions.pdf)
 
 ###### **Mastery quiz 3**
 - Topics: M1, M2, S1
