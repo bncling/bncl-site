@@ -123,8 +123,8 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-<!--
-<details markdown="1">
+
+<details markdown="1" open>
 <summary><b>Week 3: July 15 - 18</b></summary>
 
 ###### **July 15:** More related rates, midterm review
@@ -132,6 +132,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 4.1 (again)
 - Due 
 	- Mastery quiz 4 (due in class)
+		- Topics: M2, S1, S2, S3
+		- [Single sheet](/assets/documents/mq4_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq4_answer_blanks.pdf)
 	- WeBWorK *3-8 Implicit Differentiation*
 
 ###### **July 16:** Midterm 1 (M1, M2, S1, S2, S3)
@@ -156,7 +159,7 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-
+<!--
 <details markdown="1">
 <summary><b>Week 4: July 22 - 25</b></summary>
 
@@ -269,19 +272,19 @@ Some of the most common things that trip people up in this course are more to do
 
 <h3 id="mastery-quizzes">Mastery Quizzes</h3>
 
-###### **Mastery quiz 1**
+###### **Mastery quiz 1** Due July 3
 - Topics: M1
 - [Single sheet](/assets/documents/mq1_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
 - [Solutions](/assets/documents/mq1_solutions.pdf)
 
-###### **Mastery quiz 2**
+###### **Mastery quiz 2** Due July 8
 - Topics: M1
 - [Single sheet](/assets/documents/mq2_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
 - [Solutions](/assets/documents/mq2_solutions.pdf)
 
-###### **Mastery quiz 3**
+###### **Mastery quiz 3** Due July 10
 - Topics: M1, M2, S1
 - [Single sheet](/assets/documents/mq3_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq3_answer_blanks.pdf)
@@ -291,7 +294,7 @@ Some of the most common things that trip people up in this course are more to do
 
 <h3 id="practice-exams">Practice Exams</h3>
 
-###### **Midterm 1**
+###### **Midterm 1** July 16
 - Topics: M1, M2, S1, S2, S3
 - [Practice midterm](/assets/documents/practice_midterm1.pdf)
 
