@@ -104,6 +104,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M1, M2, S1
 		- [Single sheet](/assets/documents/mq3_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq3_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq3_solutions.pdf)
 	- WeBWorK *3-1 Intro to Derivatives* 
 
 ###### **July 11:** Implicit differentiation, intro to related rates
@@ -288,6 +289,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M1, M2, S1
 - [Single sheet](/assets/documents/mq3_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq3_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq3_solutions.pdf)
 
 ###### **Mastery quiz 4** Due July 15
 - Topics: M2, S1, S2, S3
