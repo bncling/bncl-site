@@ -147,6 +147,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 4.3
 - Due 
 	- Mastery quiz 5 (due in class)
+		- Topics: M2, S2, S3, S4
+		- [Single sheet](/assets/documents/mq5_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq5_answer_blanks.pdf)
 	- WeBWorK *4-1 Related Rates* 
 
 ###### **July 18:** Mean Value Theorem, classifying critical points
@@ -296,6 +299,11 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M2, S1, S2, S3
 - [Single sheet](/assets/documents/mq4_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq4_answer_blanks.pdf)
+
+###### **Mastery quiz 5** Due July 17
+- Topics: M2, S2, S3, S4
+- [Single sheet](/assets/documents/mq5_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq5_answer_blanks.pdf)
 
 
 <br>
