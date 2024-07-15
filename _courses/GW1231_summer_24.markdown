@@ -73,7 +73,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><b>Week 2: July 8 - 11</b></summary>
 
 ###### **July 8:** Defining and computing derivatives
