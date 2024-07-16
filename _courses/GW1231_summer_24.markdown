@@ -177,7 +177,7 @@ Some of the most common things that trip people up in this course are more to do
 	- Mastery quiz 6 (due in class)
 		- Topics: M3, S4
 		- [Single sheet](/assets/documents/mq6_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq6_answer_blanks/pdf)
+		- [Answer blanks](/assets/documents/mq6_answer_blanks.pdf)
 	- WeBWorK *4-4 Mean Value Theorem*
 	- WeBWorK *4-5a Relative Extrema*
 
@@ -313,7 +313,7 @@ Some of the most common things that trip people up in this course are more to do
 ###### **Mastery quiz 6** Due July 22
 - Topics: M3, S4
 - [Single sheet](/assets/documents/mq6_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq6_answer_blanks/pdf)
+- [Answer blanks](/assets/documents/mq6_answer_blanks.pdf)
 
 
 <br>
