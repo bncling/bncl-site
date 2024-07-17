@@ -142,6 +142,7 @@ Some of the most common things that trip people up in this course are more to do
 ###### **July 16:** Midterm 1 (M1, M2, S1, S2, S3)
 - [Practice midterm](/assets/documents/practice_midterm1.pdf)
 - [Practice midterm solutions](/assets/documents/practice_midterm1_solutions.pdf)
+- [Midterm solutions](/assets/documents/midterm1_solutions.pdf)
 
 ###### **July 17:** Extreme Value Theorem, maxima and minima
 - Read before class
@@ -324,4 +325,5 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M1, M2, S1, S2, S3
 - [Practice midterm](/assets/documents/practice_midterm1.pdf)
 - [Practice midterm solutions](/assets/documents/practice_midterm1_solutions.pdf)
+- [Midterm solutions](/assets/documents/midterm1_solutions.pdf)
 
