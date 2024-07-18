@@ -166,8 +166,8 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-<!--
-<details markdown="1">
+
+<details markdown="1" open>
 <summary><b>Week 4: July 22 - 25</b></summary>
 
 ###### **July 22:** Concavity and curve sketching
@@ -201,7 +201,7 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-
+<!--
 <details markdown="1">
 <summary><b>Week 5: July 29 - August 1</b></summary>
 
