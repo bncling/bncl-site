@@ -152,6 +152,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M2, S2, S3, S4
 		- [Single sheet](/assets/documents/mq5_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq5_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq5_solutions.pdf)
 	- WeBWorK *4-1 Related Rates* 
 
 ###### **July 18:** Mean Value Theorem, classifying critical points
@@ -310,6 +311,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M2, S2, S3, S4
 - [Single sheet](/assets/documents/mq5_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq5_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq5_solutions.pdf)
 
 ###### **Mastery quiz 6** Due July 22
 - Topics: M3, S4
