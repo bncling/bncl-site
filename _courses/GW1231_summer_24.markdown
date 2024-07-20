@@ -194,7 +194,8 @@ Some of the most common things that trip people up in this course are more to do
 	- Mastery quiz 7 (due in class)
 	- WeBWorK *4-5b Sketching Graphs*
 
-###### **July 25:** Midterm 2 (M3, S4, S5, S6)
+###### **July 25:** Midterm 2 (M3, S4, S5, S6 + a little Midterm 1 recap)
+- [Practice midterm](/assets/documents/practice_midterm2.pdf)
 - Due 
 	- WeBWorK *4-7 Optimization*
 
@@ -328,4 +329,8 @@ Some of the most common things that trip people up in this course are more to do
 - [Practice midterm](/assets/documents/practice_midterm1.pdf)
 - [Practice midterm solutions](/assets/documents/practice_midterm1_solutions.pdf)
 - [Midterm solutions](/assets/documents/midterm1_solutions.pdf)
+
+###### **Midterm 2** July 25
+- Topics: Review, M3, S4, S5, S6
+- [Practice midterm](/assets/documents/practice_midterm2.pdf)
 
