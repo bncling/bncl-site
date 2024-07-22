@@ -125,7 +125,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><b>Week 3: July 15 - 18</b></summary>
 
 ###### **July 15:** More related rates, midterm review
