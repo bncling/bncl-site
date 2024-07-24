@@ -196,6 +196,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M3, S5, S6
 		- [Single sheet](/assets/documents/mq7_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq7_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq7_solutions.pdf)
 	- WeBWorK *4-5b Sketching Graphs*
 
 ###### **July 25:** Midterm 2 (M3, S4, S5, S6 + a little Midterm 1 recap)
@@ -329,6 +330,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M3, S5, S6
 - [Single sheet](/assets/documents/mq7_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq7_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq7_solutions.pdf)
 
 
 <br>
