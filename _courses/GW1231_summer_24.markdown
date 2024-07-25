@@ -209,8 +209,8 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-<!--
-<details markdown="1">
+
+<details markdown="1" open>
 <summary><b>Week 5: July 29 - August 1</b></summary>
 
 ###### **July 29:** The area problem and Riemann sums
@@ -218,6 +218,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 5.1
 - Due 
 	- Mastery quiz 8 (due in class)
+		- Topics: M3, S5, S6
+		- [Single sheet](/assets/documents/mq8_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
 
 ###### **July 30:** Properties of definite integrals, FTC 1
 - Read before class
@@ -247,7 +250,7 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-
+<!--
 <details markdown="1">
 <summary><b>Week 5: August 5 - August 8</b></summary>
 
@@ -331,6 +334,11 @@ Some of the most common things that trip people up in this course are more to do
 - [Single sheet](/assets/documents/mq7_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq7_answer_blanks.pdf)
 - [Solutions](/assets/documents/mq7_solutions.pdf)
+
+###### **Mastery quiz 8** Due July 29
+- Topics: M3, S5, S6
+- [Single sheet](/assets/documents/mq8_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
 
 
 <br>
