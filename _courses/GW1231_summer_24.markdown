@@ -168,7 +168,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><b>Week 4: July 22 - 25</b></summary>
 
 ###### **July 22:** Concavity and curve sketching
@@ -202,6 +202,8 @@ Some of the most common things that trip people up in this course are more to do
 ###### **July 25:** Midterm 2 (M3, S4, S5, S6 + a little Midterm 1 recap)
 - [Practice midterm](/assets/documents/practice_midterm2.pdf)
 - [Practice midterm solutions](/assets/documents/practice_midterm2_solutions.pdf)
+- [Midterm solutions](/assets/documents/midterm2_solutions.pdf)
+- [Video solutions](https://youtu.be/mxwneY5GFRw)
 - Due 
 	- WeBWorK *4-7 Optimization*
 
@@ -355,4 +357,6 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: Review, M3, S4, S5, S6
 - [Practice midterm](/assets/documents/practice_midterm2.pdf)
 - [Practice midterm solutions](/assets/documents/practice_midterm2_solutions.pdf)
+- [Midterm solutions](/assets/documents/midterm2_solutions.pdf)
+- [Video solutions](https://youtu.be/mxwneY5GFRw)
 
