@@ -242,6 +242,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 6.1
 - Due
 	- Mastery quiz 9 (due in class) 
+		- Topics: M4, S7
+		- [Single sheet](/assets/documents/mq9_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq9_answer_blanks.pdf)
 	- WeBWorK *5-2 Definite Integrals*
 	- WeBWorK *5-3 FTC Part 1*
 
@@ -341,6 +344,11 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M3, S5, S6
 - [Single sheet](/assets/documents/mq8_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
+
+###### **Mastery quiz 8** Due August 1
+- Topics: M4, S7
+- [Single sheet](/assets/documents/mq9_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq9_answer_blanks.pdf)
 
 
 <br>
