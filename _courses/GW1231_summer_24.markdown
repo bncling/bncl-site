@@ -345,7 +345,7 @@ Some of the most common things that trip people up in this course are more to do
 - [Single sheet](/assets/documents/mq8_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
 
-###### **Mastery quiz 8** Due August 1
+###### **Mastery quiz 9** Due August 1
 - Topics: M4, S7
 - [Single sheet](/assets/documents/mq9_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq9_answer_blanks.pdf)
