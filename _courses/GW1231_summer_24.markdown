@@ -293,10 +293,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- WeBWork *6-2 Volumes by Slicing* 
 	- WeBWork *6-3 Volumes by Shells*
+- [Exam syllabus](/assets/documents/final_syllabus.pdf)
 
 <br>
-
-
 
 <br>
 
@@ -378,4 +377,8 @@ Some of the most common things that trip people up in this course are more to do
 - [Practice midterm solutions](/assets/documents/practice_midterm2_solutions.pdf)
 - [Midterm solutions](/assets/documents/midterm2_solutions.pdf)
 - [Video solutions](https://youtu.be/mxwneY5GFRw)
+
+###### **Final Exam** August 8
+- Topics: M1, M2, M3, M4, S7, S8, + optional bonus secondary topics
+- [Exam syllabus](/assets/documents/final_syllabus.pdf)
 
