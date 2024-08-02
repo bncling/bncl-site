@@ -246,6 +246,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M4, S7
 		- [Single sheet](/assets/documents/mq9_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq9_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq9_solutions.pdf)
 	- WeBWorK *5-2 Definite Integrals*
 	- WeBWorK *5-3 FTC Part 1*
 
@@ -256,8 +257,8 @@ Some of the most common things that trip people up in this course are more to do
 
 </details>
 
-<!--
-<details markdown="1">
+
+<details markdown="1" open>
 <summary><b>Week 5: August 5 - August 8</b></summary>
 
 ###### **August 5:** Applications of integration
@@ -268,6 +269,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 6.5
 - Due
 	- Mastery quiz 10 (due in class)
+		- Topics: M4, S7, S8
+		- [Single sheet](/assets/documents/mq10_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq10_answer_blanks.pdf)
 	- WeBWorK *5-5 Integration by Substitution*
 	- WeBWorK *6-1 Areas*
 
@@ -292,7 +296,7 @@ Some of the most common things that trip people up in this course are more to do
 
 <br>
 
-</details>-->
+
 
 
 <br>
@@ -351,6 +355,12 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M4, S7
 - [Single sheet](/assets/documents/mq9_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq9_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq9_solutions.pdf)
+
+###### **Mastery quiz 10** Due August 5
+- Topics: M4, S7, S8
+- [Single sheet](/assets/documents/mq10_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq10_answer_blanks.pdf)
 
 
 <br>
