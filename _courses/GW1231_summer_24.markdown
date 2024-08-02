@@ -289,7 +289,7 @@ Some of the most common things that trip people up in this course are more to do
 	- WeBWorK *6-5 Physical Applications* 
 	- WeBWorK *6-x Averages* 
 
-###### **August 8:** Final exam
+###### **August 8:** Final exam (M1-4, S7-8, bonus secondary topics)
 - Due
 	- WeBWork *6-2 Volumes by Slicing* 
 	- WeBWork *6-3 Volumes by Shells*
