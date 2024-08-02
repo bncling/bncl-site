@@ -223,7 +223,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M3, S5, S6
 		- [Single sheet](/assets/documents/mq8_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
-		- [Solutions](/asseets/documents/mq8_solutions.pdf)
+		- [Solutions](/assets/documents/mq8_solutions.pdf)
 
 ###### **July 30:** Properties of definite integrals, FTC 1
 - Read before class
@@ -349,7 +349,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M3, S5, S6
 - [Single sheet](/assets/documents/mq8_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
-- [Solutions](/asseets/documents/mq8_solutions.pdf)
+- [Solutions](/assets/documents/mq8_solutions.pdf)
 
 ###### **Mastery quiz 9** Due August 1
 - Topics: M4, S7
