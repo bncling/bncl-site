@@ -259,7 +259,7 @@ Some of the most common things that trip people up in this course are more to do
 
 
 <details markdown="1" open>
-<summary><b>Week 5: August 5 - August 8</b></summary>
+<summary><b>Week 6: August 5 - August 8</b></summary>
 
 ###### **August 5:** Applications of integration
 - Read before class
@@ -297,7 +297,6 @@ Some of the most common things that trip people up in this course are more to do
 <br>
 
 
-<!-- test -->
 
 <br>
 
