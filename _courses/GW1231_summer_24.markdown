@@ -286,6 +286,9 @@ Some of the most common things that trip people up in this course are more to do
 	- OpenStax 6.3 (again)
 - Due
 	- Mastery quiz 11 (due in class)
+		- Topics: M4, S8
+		- [Single sheet](/assets/documents/mq11_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/mq11_answer_blanks.pdf)
 	- WeBWorK *6-5 Physical Applications* 
 	- WeBWorK *6-x Averages* 
 
@@ -360,6 +363,12 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M4, S7, S8
 - [Single sheet](/assets/documents/mq10_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq10_answer_blanks.pdf)
+
+###### **Mastery quiz 11** Due August 7
+- Topics: M4, S8
+- [Single sheet](/assets/documents/mq11_single_sheet.pdf)
+- [Answer blanks](/assets/documents/mq11_answer_blanks.pdf)
+
 
 
 <br>
