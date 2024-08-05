@@ -298,6 +298,7 @@ Some of the most common things that trip people up in this course are more to do
 	- WeBWork *6-3 Volumes by Shells*
 - [Exam syllabus](/assets/documents/final_syllabus.pdf)
 - [Practice final](/assets/documents/practice_final.pdf)
+- [Practice final solutions](/assets/documents/practice_final_solutions.pdf)
 
 <br>
 
@@ -392,4 +393,5 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M1, M2, M3, M4, S7, S8, + optional bonus secondary topics
 - [Exam syllabus](/assets/documents/final_syllabus.pdf)
 - [Practice final](/assets/documents/practice_final.pdf)
+- [Practice final solutions](/assets/documents/practice_final_solutions.pdf)
 
