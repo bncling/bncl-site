@@ -212,7 +212,7 @@ Some of the most common things that trip people up in this course are more to do
 </details>
 
 
-<details markdown="1" open>
+<details markdown="1">
 <summary><b>Week 5: July 29 - August 1</b></summary>
 
 ###### **July 29:** The area problem and Riemann sums
