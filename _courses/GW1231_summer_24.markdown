@@ -272,6 +272,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M4, S7, S8
 		- [Single sheet](/assets/documents/mq10_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq10_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq10_solutions.pdf)
 	- WeBWorK *5-5 Integration by Substitution*
 	- WeBWorK *6-1 Areas*
 
@@ -364,6 +365,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M4, S7, S8
 - [Single sheet](/assets/documents/mq10_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq10_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq10_solutions.pdf)
 
 ###### **Mastery quiz 11** Due August 7
 - Topics: M4, S8
