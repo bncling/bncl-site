@@ -290,6 +290,7 @@ Some of the most common things that trip people up in this course are more to do
 		- Topics: M4, S8
 		- [Single sheet](/assets/documents/mq11_single_sheet.pdf)
 		- [Answer blanks](/assets/documents/mq11_answer_blanks.pdf)
+		- [Solutions](/assets/documents/mq11_solutions.pdf)
 	- WeBWorK *6-5 Physical Applications* 
 	- WeBWorK *6-x Averages* 
 
@@ -371,6 +372,7 @@ Some of the most common things that trip people up in this course are more to do
 - Topics: M4, S8
 - [Single sheet](/assets/documents/mq11_single_sheet.pdf)
 - [Answer blanks](/assets/documents/mq11_answer_blanks.pdf)
+- [Solutions](/assets/documents/mq11_solutions.pdf)
 
 
 
