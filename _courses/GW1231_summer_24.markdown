@@ -36,7 +36,7 @@ Some of the most common things that trip people up in this course are more to do
 
 ###### **July 1:** Syllabus, review of functions, intro to limits
 - Read before class
-	- [Course syllabus](/assets/documents/GW1231_summer_24_syllabus.pdf)
+	- [Course syllabus](/assets/documents/1231-summer-24/GW1231_summer_24_syllabus.pdf)
 	- OpenStax 1.1-3 on functions
 	- OpenStax 2.2 except for infinite limits
 
@@ -53,9 +53,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- Mastery quiz 1 (due in class)
 		- Topics: M1
-		- [Single sheet](/assets/documents/mq1_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq1_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq1_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq1_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq1_solutions.pdf)
 	- WeBWorK *0 Tutorial*
 	- WeBWorK *1-1 Functions* 
 
@@ -84,9 +84,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- Mastery quiz 2 (due in class)
 		- Topics: M1
-		- [Single sheet](/assets/documents/mq2_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq2_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq2_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq2_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq2_solutions.pdf)
 	- WeBWorK *2-2 Infinite Limits*
 	- WeBWorK *4-6 Limits at Infinity*
 
@@ -102,9 +102,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due 
 	- Mastery quiz 3 (due in class)
 		- Topics: M1, M2, S1
-		- [Single sheet](/assets/documents/mq3_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq3_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq3_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq3_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq3_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq3_solutions.pdf)
 	- WeBWorK *3-1 Intro to Derivatives* 
 
 ###### **July 11:** Implicit differentiation, intro to related rates
@@ -134,15 +134,15 @@ Some of the most common things that trip people up in this course are more to do
 - Due 
 	- Mastery quiz 4 (due in class)
 		- Topics: M2, S1, S2, S3
-		- [Single sheet](/assets/documents/mq4_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq4_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq4_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq4_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq4_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq4_solutions.pdf)
 	- WeBWorK *3-8 Implicit Differentiation*
 
 ###### **July 16:** Midterm 1 (M1, M2, S1, S2, S3)
-- [Practice midterm](/assets/documents/practice_midterm1.pdf)
-- [Practice midterm solutions](/assets/documents/practice_midterm1_solutions.pdf)
-- [Midterm solutions](/assets/documents/midterm1_solutions.pdf)
+- [Practice midterm](/assets/documents/1231-summer-24/practice_midterm1.pdf)
+- [Practice midterm solutions](/assets/documents/1231-summer-24/practice_midterm1_solutions.pdf)
+- [Midterm solutions](/assets/documents/1231-summer-24/midterm1_solutions.pdf)
 
 ###### **July 17:** Extreme Value Theorem, maxima and minima
 - Read before class
@@ -150,9 +150,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due 
 	- Mastery quiz 5 (due in class)
 		- Topics: M2, S2, S3, S4
-		- [Single sheet](/assets/documents/mq5_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq5_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq5_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq5_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq5_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq5_solutions.pdf)
 	- WeBWorK *4-1 Related Rates* 
 
 ###### **July 18:** Mean Value Theorem, classifying critical points
@@ -178,9 +178,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- Mastery quiz 6 (due in class)
 		- Topics: M3, S4
-		- [Single sheet](/assets/documents/mq6_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq6_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq6_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq6_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq6_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq6_solutions.pdf)
 	- WeBWorK *4-4 Mean Value Theorem*
 	- WeBWorK *4-5a Relative Extrema*
 
@@ -194,15 +194,15 @@ Some of the most common things that trip people up in this course are more to do
 - Due 
 	- Mastery quiz 7 (due in class)
 		- Topics: M3, S5, S6
-		- [Single sheet](/assets/documents/mq7_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq7_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq7_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq7_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq7_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq7_solutions.pdf)
 	- WeBWorK *4-5b Sketching Graphs*
 
 ###### **July 25:** Midterm 2 (M3, S4, S5, S6 + a little Midterm 1 recap)
-- [Practice midterm](/assets/documents/practice_midterm2.pdf)
-- [Practice midterm solutions](/assets/documents/practice_midterm2_solutions.pdf)
-- [Midterm solutions](/assets/documents/midterm2_solutions.pdf)
+- [Practice midterm](/assets/documents/1231-summer-24/practice_midterm2.pdf)
+- [Practice midterm solutions](/assets/documents/1231-summer-24/practice_midterm2_solutions.pdf)
+- [Midterm solutions](/assets/documents/1231-summer-24/midterm2_solutions.pdf)
 - [Video solutions](https://youtu.be/mxwneY5GFRw)
 - Due 
 	- WeBWorK *4-7 Optimization*
@@ -221,9 +221,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due 
 	- Mastery quiz 8 (due in class)
 		- Topics: M3, S5, S6
-		- [Single sheet](/assets/documents/mq8_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq8_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq8_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq8_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq8_solutions.pdf)
 
 ###### **July 30:** Properties of definite integrals, FTC 1
 - Read before class
@@ -244,9 +244,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- Mastery quiz 9 (due in class) 
 		- Topics: M4, S7
-		- [Single sheet](/assets/documents/mq9_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq9_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq9_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq9_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq9_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq9_solutions.pdf)
 	- WeBWorK *5-2 Definite Integrals*
 	- WeBWorK *5-3 FTC Part 1*
 
@@ -270,9 +270,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- Mastery quiz 10 (due in class)
 		- Topics: M4, S7, S8
-		- [Single sheet](/assets/documents/mq10_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq10_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq10_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq10_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq10_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq10_solutions.pdf)
 	- WeBWorK *5-5 Integration by Substitution*
 	- WeBWorK *6-1 Areas*
 
@@ -288,9 +288,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- Mastery quiz 11 (due in class)
 		- Topics: M4, S8
-		- [Single sheet](/assets/documents/mq11_single_sheet.pdf)
-		- [Answer blanks](/assets/documents/mq11_answer_blanks.pdf)
-		- [Solutions](/assets/documents/mq11_solutions.pdf)
+		- [Single sheet](/assets/documents/1231-summer-24/mq11_single_sheet.pdf)
+		- [Answer blanks](/assets/documents/1231-summer-24/mq11_answer_blanks.pdf)
+		- [Solutions](/assets/documents/1231-summer-24/mq11_solutions.pdf)
 	- WeBWorK *6-5 Physical Applications* 
 	- WeBWorK *6-x Averages* 
 
@@ -298,9 +298,9 @@ Some of the most common things that trip people up in this course are more to do
 - Due
 	- WeBWork *6-2 Volumes by Slicing* 
 	- WeBWork *6-3 Volumes by Shells*
-- [Exam syllabus](/assets/documents/final_syllabus.pdf)
-- [Practice final](/assets/documents/practice_final.pdf)
-- [Practice final solutions](/assets/documents/practice_final_solutions.pdf)
+- [Exam syllabus](/assets/documents/1231-summer-24/final_syllabus.pdf)
+- [Practice final](/assets/documents/1231-summer-24/practice_final.pdf)
+- [Practice final solutions](/assets/documents/1231-summer-24/practice_final_solutions.pdf)
 
 <br>
 
@@ -310,70 +310,69 @@ Some of the most common things that trip people up in this course are more to do
 
 ###### **Mastery quiz 1** Due July 3
 - Topics: M1
-- [Single sheet](/assets/documents/mq1_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq1_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq1_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq1_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq1_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq1_solutions.pdf)
 
 ###### **Mastery quiz 2** Due July 8
 - Topics: M1
-- [Single sheet](/assets/documents/mq2_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq2_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq2_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq2_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq2_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq2_solutions.pdf)
 
 ###### **Mastery quiz 3** Due July 10
 - Topics: M1, M2, S1
-- [Single sheet](/assets/documents/mq3_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq3_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq3_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq3_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq3_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq3_solutions.pdf)
 
 ###### **Mastery quiz 4** Due July 15
 - Topics: M2, S1, S2, S3
-- [Single sheet](/assets/documents/mq4_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq4_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq4_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq4_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq4_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq4_solutions.pdf)
 
 ###### **Mastery quiz 5** Due July 17
 - Topics: M2, S2, S3, S4
-- [Single sheet](/assets/documents/mq5_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq5_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq5_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq5_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq5_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq5_solutions.pdf)
 
 ###### **Mastery quiz 6** Due July 22
 - Topics: M3, S4
-- [Single sheet](/assets/documents/mq6_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq6_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq6_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq6_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq6_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq6_solutions.pdf)
 
 ###### **Mastery quiz 7** Due July 24
 - Topics: M3, S5, S6
-- [Single sheet](/assets/documents/mq7_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq7_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq7_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq7_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq7_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq7_solutions.pdf)
 
 ###### **Mastery quiz 8** Due July 29
 - Topics: M3, S5, S6
-- [Single sheet](/assets/documents/mq8_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq8_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq8_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq8_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq8_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq8_solutions.pdf)
 
 ###### **Mastery quiz 9** Due August 1
 - Topics: M4, S7
-- [Single sheet](/assets/documents/mq9_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq9_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq9_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq9_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq9_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq9_solutions.pdf)
 
 ###### **Mastery quiz 10** Due August 5
 - Topics: M4, S7, S8
-- [Single sheet](/assets/documents/mq10_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq10_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq10_solutions.pdf)
+- [Single sheet](/assets/documents/1231-summer-24/mq10_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq10_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq10_solutions.pdf)
 
 ###### **Mastery quiz 11** Due August 7
 - Topics: M4, S8
-- [Single sheet](/assets/documents/mq11_single_sheet.pdf)
-- [Answer blanks](/assets/documents/mq11_answer_blanks.pdf)
-- [Solutions](/assets/documents/mq11_solutions.pdf)
-
+- [Single sheet](/assets/documents/1231-summer-24/mq11_single_sheet.pdf)
+- [Answer blanks](/assets/documents/1231-summer-24/mq11_answer_blanks.pdf)
+- [Solutions](/assets/documents/1231-summer-24/mq11_solutions.pdf)
 
 
 <br>
@@ -382,20 +381,20 @@ Some of the most common things that trip people up in this course are more to do
 
 ###### **Midterm 1** July 16
 - Topics: M1, M2, S1, S2, S3
-- [Practice midterm](/assets/documents/practice_midterm1.pdf)
-- [Practice midterm solutions](/assets/documents/practice_midterm1_solutions.pdf)
-- [Midterm solutions](/assets/documents/midterm1_solutions.pdf)
+- [Practice midterm](/assets/documents/1231-summer-24/practice_midterm1.pdf)
+- [Practice midterm solutions](/assets/documents/1231-summer-24/practice_midterm1_solutions.pdf)
+- [Midterm solutions](/assets/documents/1231-summer-24/midterm1_solutions.pdf)
 
 ###### **Midterm 2** July 25
 - Topics: Review, M3, S4, S5, S6
-- [Practice midterm](/assets/documents/practice_midterm2.pdf)
-- [Practice midterm solutions](/assets/documents/practice_midterm2_solutions.pdf)
-- [Midterm solutions](/assets/documents/midterm2_solutions.pdf)
+- [Practice midterm](/assets/documents/1231-summer-24/practice_midterm2.pdf)
+- [Practice midterm solutions](/assets/documents/1231-summer-24/practice_midterm2_solutions.pdf)
+- [Midterm solutions](/assets/documents/1231-summer-24/midterm2_solutions.pdf)
 - [Video solutions](https://youtu.be/mxwneY5GFRw)
 
 ###### **Final Exam** August 8
 - Topics: M1, M2, M3, M4, S7, S8, + optional bonus secondary topics
-- [Exam syllabus](/assets/documents/final_syllabus.pdf)
-- [Practice final](/assets/documents/practice_final.pdf)
-- [Practice final solutions](/assets/documents/practice_final_solutions.pdf)
+- [Exam syllabus](/assets/documents/1231-summer-24/final_syllabus.pdf)
+- [Practice final](/assets/documents/1231-summer-24/practice_final.pdf)
+- [Practice final solutions](/assets/documents/1231-summer-24/practice_final_solutions.pdf)
 
